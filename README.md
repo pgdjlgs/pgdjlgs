@@ -11,13 +11,7 @@ I am a passionate 13-year-old **Linux Developer** and **Open Source Enthusiast**
 
 ---
 
-## 🚀 Featured Projects
-### 🔹 Advanced Package Helpers (`apt` & `pacman` Tools)
-*Custom scripts and automation tools designed to streamline package installation, repository mirrors management, and system updates.*
-* **Technologies used:** Bash, Python, Linux CLI.
-* Check out the repositories in my profile to view the source code!
 
----
 
 ## 🧰 Tech Stack & Skills
 * **Operating Systems:** Linux (Debian, Arch, Ubuntu)
@@ -33,6 +27,6 @@ I am a passionate 13-year-old **Linux Developer** and **Open Source Enthusiast**
 ---
 
 ## 🌐 Connect With Me
-* 📺 **YouTube:** [Watch my Coding & Tech Videos](YOUR_YOUTUBE_CHANNEL_LINK_HERE)
+* 📺 **YouTube:** [Watch my Coding & Tech Videos](https://www.youtube.com/@PgdjLgs)
 
 *"The best way to predict the future is to code it."* 💻
